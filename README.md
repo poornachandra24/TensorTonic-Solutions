@@ -2,7 +2,7 @@
 
 Welcome to my TensorTonic solutions repository!
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic]([https://tensortonic.com](https://www.tensortonic.com/profile)).
+Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://www.tensortonic.com/profile)
 
 ## What is TensorTonic?
 
